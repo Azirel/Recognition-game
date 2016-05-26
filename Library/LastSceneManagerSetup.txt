@@ -1,0 +1,4 @@
+sceneSetups:
+- path: D:/Unity3D/Projects/RecognitionPuzzle/Assets/RecognitionPuzzle.unity
+  isLoaded: 1
+  isActive: 1
